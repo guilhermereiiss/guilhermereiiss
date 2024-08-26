@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Guilherme Reis
-🔭 I’m currently working on University projects<br><br>🌱 I’m currently learning React.js, React Native, Tailwind<br><br>📫 How to reach me guiprogramador06@gmail.com
+🔭 I’m currently working on **University projects**<br><br>🌱 I’m currently learning **React.js, React Native, Tailwind**<br><br>📫 How to reach me guiprogramador06@gmail.com
 
 
 ## 🌐 Socials:
